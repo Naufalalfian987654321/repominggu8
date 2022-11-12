@@ -1,0 +1,14 @@
+p { 
+    font-family: serif; 
+    line-height: 1.75em; 
+} 
+ 
+li { 
+    font-family: sans; 
+    color: orange; 
+} 
+ 
+h3{ 
+    font-family: sans; 
+    color: rgb(23, 221, 119); 
+}
